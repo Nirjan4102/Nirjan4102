@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nirjan4102
-- 👀 I’m interested in ... HTML, CSS
-- 🌱 I’m currently learning ...B.tech 1'St year.
+- 👋 Hi, I’m Nirjan Mondal
+- 👀 I’m interested in ... C++, Java, Python, JavaScript, etc
+- 🌱 I’m currently learning ...B.tech 3'rd year.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
